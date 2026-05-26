@@ -35,5 +35,5 @@ Databricks Data Engineer Associate · Microsoft Fabric Analytics Engineer (DP-60
 ## 📫 Contact
 
 - 📧 pawelpelar@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-pelar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paweł-pelar)
 
